@@ -1,1 +1,1 @@
-# smogly
+# New equipment validation
